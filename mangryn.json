@@ -1,0 +1,24 @@
+{
+"products" [
+{"id":1,"name":"Monkey, red howler","category":"Crimson"},
+{"id":2,"name":"Leopard","category":"Yellow"},
+{"id":3,"name":"Pelican, brown","category":"Teal"},
+{"id":4,"name":"Colobus, magistrate black","category":"Mauv"},
+{"id":5,"name":"Jackal, silver-backed","category":"Fuscia"},
+{"id":6,"name":"Robin, white-throated","category":"Purple"},
+{"id":7,"name":"Crested barbet","category":"Red"},
+{"id":8,"name":"Turtle, snake-necked","category":"Goldenrod"},
+{"id":9,"name":"Blacksmith plover","category":"Maroon"},
+{"id":10,"name":"Goose, knob-nosed","category":"Pink"},
+{"id":11,"name":"Vulture, lappet-faced","category":"Goldenrod"},
+{"id":12,"name":"Cat, cape wild","category":"Puce"},
+{"id":13,"name":"Spur-winged goose","category":"Yellow"},
+{"id":14,"name":"Spurfowl, yellow-necked","category":"Indigo"},
+{"id":15,"name":"Sloth, pale-throated three-toed","category":"Green"},
+{"id":16,"name":"Tsessebe","category":"Pink"},
+{"id":17,"name":"Jaguar","category":"Fuscia"},
+{"id":18,"name":"Toddy cat","category":"Violet"},
+{"id":19,"name":"Duiker, common","category":"Crimson"},
+{"id":20,"name":"Campo flicker","category":"Pink"}
+]
+}
